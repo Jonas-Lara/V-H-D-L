@@ -1,13 +1,13 @@
-entity T01_HelloWorldTb is
+entity Hola_Mundo is
 end entity;
  
-architecture sim of T01_HelloWorldTb is
+architecture sim of Hola_Mundo is
 begin
  
     process is
     begin
  
-        report "Hello World!";
+        report "Hola Mundo con VHDL!";
         wait;
  
     end process;
