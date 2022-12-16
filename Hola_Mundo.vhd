@@ -7,7 +7,7 @@ begin
     process is
     begin
  
-        report "Hola Mundo con VHDL!";
+        report "Hola Mundo con VHDL desde WSL y VSCode!";
         wait;
  
     end process;
