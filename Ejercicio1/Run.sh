@@ -3,7 +3,7 @@
 # This script compiles and runs a VHDL file
 # It also shows the waveforms in GTKWave
 
-path=/home/jonas/V-H-D-L/*.vhd # Path to the file
+path=/home/jonas/V-H-D-L/Ejercicio1/*.vhd # Path to the file
 fpath=$(basename $path) 
 nombre="${fpath%.*}"            
 
