@@ -1,4 +1,0 @@
-v 4
-file . "AND2.vhd" "4a0ad421e3ba24dcc322910a4c65a2694bf7664c" "20221217224202.683":
-  entity and2 at 16( 314) + 0 on 11;
-  architecture sim of and2 at 19( 347) + 0 on 12;
